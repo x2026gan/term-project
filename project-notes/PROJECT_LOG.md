@@ -21,15 +21,18 @@ Copy this block for each session.
 - **What worked:** the website in general + making the background black
 - **What broke, and how we fixed it:** it wouldn't change the name to GymBro, or at least the preview wasn't showing it. So I told it to "Make sure that it doesn't say PulseFit anywhere, I want it to be called GymBro" and reloaded it and it worked. 
 - **Committed?** yes / no — commit message: yes, session one
-- ### Session — [date] — driver: [first name]
+- ### Session 2— [Nov 14] — driver: [Abi]
 
-- **Goal for this session:**
+- **Goal for this session:** more iphone compatible + eye catching
 - **Key prompts we gave Copilot** (paste the important ones):
-  1.
-  2.
-- **What worked:**
-- **What broke, and how we fixed it:**
-- **Committed?** yes / no — commit message:
+  1.Make it more friendly for iphone/android users
+  2.add a section at the top or bottom, whichever you think looks better, of a short video of the gym or workouts. Something to make it more eye catching
+  3. add a page that compares your workouts to your friends workouts
+  4. add a feature where you can prompt your friends to workout if they haven't in a while
+  5. add a section header on the friends page where it says find your people, and add a picture of people smiling as the background
+- **What worked:** iphone compatibility 
+- **What broke, and how we fixed it:** Nothing broke but it gave me a really hard time getting a good video and I had to ask a million (or like 5) times and eventually ask it for the ocean instead
+- **Committed?** yes / no — commit message: yes, session two
 
 
 ---
@@ -38,7 +41,10 @@ Copy this block for each session.
 
 | Date | What went wrong | What we tried | What finally fixed it |
 |---|---|---|---|
-| | | | |
+|Nov 14 |Website Name |Asking to change name |asking to replace it everywhere|
+|Nov 14 |Gym Video |Asking for gym video |asking for ocean video |
+| | | |
+| | | |
 
 ## What a real version would need
 
@@ -46,6 +52,8 @@ Everything we wanted but faked or left out — real logins, a real database, pay
 
 | Feature we faked or skipped | Why a real company would need it | How hard / expensive? |
 |---|---|---|
+|Real Logins | So users can use it|probably not that hard |
+| | | |
 | | | |
 
 ## Reflection (fill in at the end)
