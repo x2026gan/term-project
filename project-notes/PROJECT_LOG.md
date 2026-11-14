@@ -2,8 +2,8 @@
 
 Keep this up to date as you go — a few lines per work session is enough. It's much harder to reconstruct at the end.
 
-**Team name:**
-**Startup name:**
+**Team name: Abi Wilson
+**Startup name: GymBro
 **Live site link:**
 
 ---
@@ -12,7 +12,16 @@ Keep this up to date as you go — a few lines per work session is enough. It's 
 
 Copy this block for each session.
 
-### Session — [date] — driver: [first name]
+### Session 1 — [Nov 14] — driver: [Abi]
+
+- **Goal for this session:** Generate a first draft now that I have an idea
+- **Key prompts we gave Copilot** (paste the important ones):
+  1.
+  2.
+- **What worked:**
+- **What broke, and how we fixed it:**
+- **Committed?** yes / no — commit message:
+- ### Session — [date] — driver: [first name]
 
 - **Goal for this session:**
 - **Key prompts we gave Copilot** (paste the important ones):
@@ -21,6 +30,7 @@ Copy this block for each session.
 - **What worked:**
 - **What broke, and how we fixed it:**
 - **Committed?** yes / no — commit message:
+
 
 ---
 
