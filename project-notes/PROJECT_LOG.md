@@ -33,8 +33,63 @@ Copy this block for each session.
 - **What worked:** iphone compatibility 
 - **What broke, and how we fixed it:** Nothing broke but it gave me a really hard time getting a good video and I had to ask a million (or like 5) times and eventually ask it for the ocean instead
 - **Committed?** yes / no — commit message: yes, session two
+## Work sessions
 
+Copy this block for each session.
 
+### Session 3  — [Nov 15] — driver: [Abi]
+
+- **Goal for this session:** make it more valuable + unique
+- **Key prompts we gave Copilot** (paste the important ones): 
+  1.add a section for users to track their calorie intake
+  2. add a marketplace style page where users can buy and sell used gym equipment
+- **What worked:** all of it
+- **What broke, and how we fixed it:** nothing
+- **Committed?** yes / no — commit message: Yes- Session Three
+Copy this block for each session.
+
+### Session ?  — [Nov 15] — driver: [Abi]
+
+- **Goal for this session:** 
+- **Key prompts we gave Copilot** (paste the important ones): 
+  1.
+  2. 
+- **What worked:** 
+- **What broke, and how we fixed it:** 
+- **Committed?** yes / no — commit message:
+ Copy this block for each session.
+
+### Session ?  — [Nov ?] — driver: [Abi]
+
+- **Goal for this session:** 
+- **Key prompts we gave Copilot** (paste the important ones): 
+  1.
+  2. 
+- **What worked:** 
+- **What broke, and how we fixed it:** 
+- **Committed?** yes / no — commit message:
+  Copy this block for each session.
+
+### Session ?  — [Nov ?] — driver: [Abi]
+
+- **Goal for this session:** 
+- **Key prompts we gave Copilot** (paste the important ones): 
+  1.
+  2. 
+- **What worked:** 
+- **What broke, and how we fixed it:** 
+- **Committed?** yes / no — commit message:
+  Copy this block for each session.
+
+### Session ?  — [Nov ?] — driver: [Abi]
+
+- **Goal for this session:** 
+- **Key prompts we gave Copilot** (paste the important ones): 
+  1.
+  2. 
+- **What worked:** 
+- **What broke, and how we fixed it:** 
+- **Committed?** yes / no — commit message: 
 ---
 
 ## Things that broke (running list)
