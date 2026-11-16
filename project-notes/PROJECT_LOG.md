@@ -48,15 +48,16 @@ Copy this block for each session.
 - **Committed?** yes / no — commit message: Yes- Session Three
 Copy this block for each session.
 
-### Session ?  — [Nov 15] — driver: [Abi]
+### Session 4  — [Nov 16] — driver: [Abi]
 
-- **Goal for this session:** 
+- **Goal for this session:** Optimize Iphone compatibility + add to marketplace
 - **Key prompts we gave Copilot** (paste the important ones): 
-  1.
-  2. 
-- **What worked:** 
-- **What broke, and how we fixed it:** 
-- **Committed?** yes / no — commit message:
+  1.make the website more friendly for mobile users, such as turning the top layer with the dashboard, workouts, etc. into a drop down menu. But only do it for mobile devices, not computer browsers
+  2. make the drop down menu for mobile users more eye catching/ make it stand out more so users don't miss it
+  3.add a section in the marketplace page for users to sell old gym clothing/footware 
+- **What worked:** all of it
+- **What broke, and how we fixed it:** nothing
+- **Committed?** yes / no — commit message: yes- Session Four
  Copy this block for each session.
 
 ### Session ?  — [Nov ?] — driver: [Abi]
